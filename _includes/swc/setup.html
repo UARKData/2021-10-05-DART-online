@@ -7,15 +7,6 @@
 {% include install_instructions/editor.html %}
 
 
-{% elsif site.flavor == "python" %}
-{% include install_instructions/python.html %}
-{% elsif site.flavor == "FIXME" %}
-
-{% include install_instructions/python.html %}
-{% else %}
-{% include warning-flavor.html %}
-{% endif %}
-
 {% comment %}
 The following setup instructions are commented out because Carpentries workshops
 cover the these topics less frequently. Please uncomment the lines that
