@@ -64,9 +64,9 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 <div class="row">
 <div class="col-md-8">
-  <table>
+<table>
 <table class="table table-striped">
-<tr> <td>October 6, 2021 1:00-4:30pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<tr> <td>October 6, 2021 1:00-4:30pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7732968")  //-->
 <a id = "s_lc_event_7732968" href="https://uark.libcal.com/event/8296888">DART Introduction to Python I </a>
 <!-- Below is optional element styling  //-->
   <style>
@@ -84,7 +84,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
 </td> </tr>
-      <tr> <td>October 8, 2021 1:00-3:40pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+      <tr> <td>October 8, 2021 1:00-3:40pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7732976")  //-->
 <a id="s_lc_event_7732976" href="https://uark.libcal.com/event/8296889">DART Introduction to Python I </a>
 <!-- Below is optional element styling  //-->
 <style>
