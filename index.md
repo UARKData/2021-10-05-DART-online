@@ -57,14 +57,14 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 <strong>The University of Arkansas' participation in the Carpentries is sponsored by the <a href= "https://libraries.uark.edu">University of Arkansas Libraries</a></strong>
-
+<img src = "images/DARTNEW3.png">
 <h2>Register Now!</h2>
-<p><img src = "images/DARTNEW3.png"></p>
+
 <div class="row">
 <div class="col-md-8">
   <table>
 <table class="table table-striped">
-      <tr> <td>June 23, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+      <tr> <td>October 6, 2021 1:00-4:30pm CDT </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7732976" href="https://uark.libcal.com/event/8296888">DART - Introduction to Python Pt. 1 </a>
 <!-- Below is optional element styling  //-->
 <style>
