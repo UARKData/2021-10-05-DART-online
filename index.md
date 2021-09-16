@@ -9,10 +9,10 @@ country: "us"      # us
 language: "en"     # en
 latitude: "36.061932"        # 
 longitude: "-94.160583"       # 
-humandate: "October 5, 2021"    # 
+humandate: "October 6 or October 8 2021"    # 
 humantime: "1:00 - 4:30 pm CDT"    # 
-startdate: "2021-10-05"     # 
-enddate: "2021-10-05"       # 
+startdate: "2021-10-06"     # 
+enddate: "2021-10-06"       # 
 instructor: ["Lora Lennertz"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Michael Gibbs"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["lennertz@uark.edu","datalib@uark.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -82,6 +82,30 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
+        <p>Please select the class of your choice. </p>
+<div class="row">
+<div class="col-md-8">
+  <table>
+<table class="table table-striped">
+<tr> <td>October 8, 2021 1::00-4:30pm CDT</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<a id = "s_lc_event_7732968" href="https://uark.libcal.com/event/8296889">Introduction to Python Pt.1 </a>
+<!-- Below is optional element styling  //-->
+  <style>
+#s_lc_event_7732968 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #E7F5F3;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7732968:hover {
+  opacity: 0.9;
+}
+</style>
+  
+
 </td> </tr>
   </table>
 
