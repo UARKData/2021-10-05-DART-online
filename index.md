@@ -57,7 +57,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 <strong>The University of Arkansas' participation in the Carpentries is sponsored by the <a href= "https://libraries.uark.edu">University of Arkansas Libraries</a></strong>
-<img src = "DARTNEW3.png">
+<img src = "image/DARTNEW3.png">
 <h2>Register Now!</h2>
 
 <div class="row">
