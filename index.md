@@ -60,7 +60,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 <p>
 <img src = "image/DARTNEW3.png"></p>
 <h2>Register Now!</h2>
-
+<p>Please select the class of your choice. </p>
 <div class="row">
 <div class="col-md-8">
   <table>
@@ -82,13 +82,13 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   opacity: 0.9;
 }
 </style>
-        <p>Please select the class of your choice. </p>
+        
 <div class="row">
 <div class="col-md-8">
   <table>
 <table class="table table-striped">
 <tr> <td>October 8, 2021 1::00-4:30pm CDT</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
-<a id = "s_lc_event_7732968" href="https://uark.libcal.com/event/8296889">Introduction to Python Pt.1 </a>
+<a id = "s_lc_event_7732968" href="https://uark.libcal.com/event/8296889">DART Introduction to Python Pt.1 </a>
 <!-- Below is optional element styling  //-->
   <style>
 #s_lc_event_7732968 {
